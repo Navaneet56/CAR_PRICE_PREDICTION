@@ -2,7 +2,7 @@
 
 A premium, end-to-end Machine Learning web application that predicts the resale price of used cars based on their specification profiles and historical metrics. The web application is built using **Streamlit** and utilizes a trained **Linear Regression** model.
 
-🔗 **Live Web Application:** [Deploy Your App on Streamlit Cloud and Paste Your Link Here]
+🔗 **Live Web Application: https://carpriceprediction-kfchvmd9dwkak72sjsrcr4.streamlit.app/
 
 ---
 
